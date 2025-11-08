@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Tomás Joaquín López
+  Hey there! I'm Tomás Joaquín López
   <img src="https://static.wikia.nocookie.net/cookierunkingdom/images/4/46/Cookie0525-call_user.gif/revision/latest?cb=20220218224343" width="170">
 </h3>
 
